@@ -2,9 +2,7 @@
 This is a simple implementation of a neural network to recognize handwritten digits from the MNIST dataset. The neural network is implemented in Python using the NumPy and SciPy libraries.
 
 ## Usage
-To use the neural network, you first need to download the MNIST dataset from here. After downloading, extract the contents of the zip file into a directory named mnist_dataset.
-
-Then, run the main.py file to train and test the neural network:
+Run the main.py file to train and test the neural network:
 
 ```python main.py```
 
